@@ -1,6 +1,7 @@
 # 🚗 IA 1209 - Design Project: Smart Vehicle Number Plate Recognition & Mobile Controlled Gate Access System 🔒
 
-![Project Banner](https://github.com/username/IA-1209-Design-Project/blob/main/banner.jpg?raw=true)
+![Project Banner](https://github.com/username/IA-1209-Design-Project/raw/main/banner.jpg)
+
 
 Welcome to the **IA 1209 - Design Project** repository! This project involves the development of a **Smart Vehicle Number Plate Recognition** system and **Mobile Controlled Gate Access** using the **ESP32Cam** module. It integrates **image processing** for **ANPR** (Automatic Number Plate Recognition) and **mobile app control** for **automated access**.
 
