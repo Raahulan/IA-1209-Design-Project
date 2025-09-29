@@ -1,6 +1,6 @@
 # 🚗 IA 1209 - Design Project: Smart Vehicle Number Plate Recognition & Mobile Controlled Gate Access System 🔒
 
-![Project Banner](banner.png)
+![Project Banner](banner.jpg)
 
 
 
